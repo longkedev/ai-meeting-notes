@@ -1,0 +1,25 @@
+{
+    "recommendations": [
+        "golang.go",
+        "ms-vscode.vscode-docker",
+        "ms-vscode.vscode-yaml",
+        "redhat.vscode-yaml",
+        "ms-vscode.vscode-json",
+        "bradlc.vscode-tailwindcss",
+        "esbenp.prettier-vscode",
+        "ms-vscode.vscode-eslint",
+        "formulahendry.auto-rename-tag",
+        "christian-kohler.path-intellisense",
+        "ms-vscode.vscode-thunder-client",
+        "humao.rest-client",
+        "ms-vscode.vscode-git-graph",
+        "eamodio.gitlens",
+        "ms-vscode.vscode-todo-highlight",
+        "gruntfuggly.todo-tree",
+        "ms-vscode.vscode-markdown-preview-enhanced",
+        "yzhang.markdown-all-in-one"
+    ],
+    "unwantedRecommendations": [
+        "ms-vscode.vscode-typescript"
+    ]
+}
